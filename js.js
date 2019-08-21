@@ -73,5 +73,6 @@ let Over = ()=>{
     x = 0
     document.getElementById('timer').innerHTML = ''
     document.getElementById('text').value=''
+    document.getElementById('right').innerHTML = ''
     Input()
 }
